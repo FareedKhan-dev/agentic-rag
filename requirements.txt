@@ -1,0 +1,15 @@
+sec-edgar-downloader
+unstructured[pdf,html]
+langchain
+langgraph
+langchain-openai
+langchain-google-genai
+qdrant-client
+fastembed
+sentence-transformers
+langsmith
+ragas
+tavily-python
+python-dotenv
+pandas
+tqdm
